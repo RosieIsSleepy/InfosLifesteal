@@ -2,3 +2,8 @@ name: InfosLifesteal
 version: '${project.version}'
 main: me.info.infoslifesteal.InfosLifesteal
 api-version: '1.20'
+
+commands:
+  resetHearts:
+    aliases: [RH], [HeartReset]
+
